@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FlyFishJen]]></title>
         <description><![CDATA[FlyFishJen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/flyfishjen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 15:53:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 15:53:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/flyfishjen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fish Tales]]></title>
-            <description><![CDATA[<article><h1>Fish Tales</h1><p>Brook trout tail. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c8a1537-0002-4a99-a5bc-73315a038ab7.jpg"></article>]]></description>
-            <link>undefinedfish-tales/index.html</link>
+            <description><![CDATA[<article><h1>Fish Tales</h1><p>The beauty of fish tails, they are all unique and beautiful.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c8a1537-0002-4a99-a5bc-73315a038ab7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/flyfishjen/fish-tales/index.html</link>
             <guid isPermaLink="false">918fc7e7-f5f1-4651-8588-9b740dbaf4f3</guid>
-            <pubDate>Tue, 12 Apr 2016 15:53:14 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 15:53:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
