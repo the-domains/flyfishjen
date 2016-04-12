@@ -1,0 +1,28 @@
+name: FlyFishJen
+favicon: null
+layout_spectrum: 0.8969504837878048
+typography_spectrum: 0.977748982841149
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8525602973531932
+  lightness: 0.8233984021935612
+  saturation: 0.042346809059381485
+  rhythmicContrast: 0.6733457080554217
+purpose: []
